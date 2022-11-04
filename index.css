@@ -2,12 +2,18 @@
     padding: 0;
     margin: 0;
 }
-
+#header-inner {
+    position: fixed;
+    width: 100%;
+    background-color: #1eb032;
+}
+#logo {
+    background-color: #1abc9c;
+}
 nav {
-    background-color: rgb(18, 179, 61); 
+    background-color: black; 
     padding: 14px 20px;
     text-align: center; 
-    position: fixed;
     width: 100%;
 
 }
